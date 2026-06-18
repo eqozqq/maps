@@ -4,49 +4,49 @@
     "version": "0.5.0",
     "short_description": "Big city map for Minecraft PE 0.5.0+",
     "full_description": "Big city map for Minecraft PE 0.5.0+",
-    "thumbnail": "data\/0.5.0\/CityCraft\/thumb.jpg",
-    "file": "data\/0.5.0\/CityCraft\/CityCraft.zip",
+    "thumbnail": "data/0.5.0/CityCraft/thumb.jpg",
+    "file": "data/0.5.0/CityCraft/CityCraft.zip",
     "date": "2025-12-11 19:25",
     "type": "maps",
-    "original_link": "https:\/\/4pda.to\/forum\/index.php?showtopic=626139&st=100",
+    "original_link": "https://4pda.to/forum/index.php?showtopic=626139&st=100",
     "author": {
       "name": "eqozqq",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
-      "data\/0.5.0\/CityCraft\/screen_1.jpg",
-      "data\/0.5.0\/CityCraft\/screen_2.jpg"
+      "data/0.5.0/CityCraft/screen_1.jpg",
+      "data/0.5.0/CityCraft/screen_2.jpg"
     ]
   },
   {
     "title": "calculator 1.0",
     "version": "0.8.1",
     "short_description": "Рабочий калькулятор",
-    "thumbnail": "data\/0.8.1\/calculator 1.0\/thumb_1765532791108.jpg",
-    "file": "data\/0.8.1\/calculator 1.0\/calculator 1.0.zip",
+    "thumbnail": "data/0.8.1/calculator 1.0/thumb_1765532791108.jpg",
+    "file": "data/0.8.1/calculator 1.0/calculator 1.0.zip",
     "date": "2025-12-12 11:46",
     "type": "maps",
     "author": {
       "name": "preaton1337",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/105851196?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/105851196?v=4"
     }
   },
   {
     "title": "Let's play by preaton",
     "version": "0.8.1",
     "short_description": "Survival map from 2023 by preaton",
-    "thumbnail": "data\/0.8.1\/Let's play by preaton\/thumb_1765534621614.jpg",
-    "file": "data\/0.8.1\/Let's play by preaton\/Let's play by preaton.zip",
+    "thumbnail": "data/0.8.1/Let's play by preaton/thumb_1765534621614.jpg",
+    "file": "data/0.8.1/Let's play by preaton/Let's play by preaton.zip",
     "date": "2025-12-12 12:18",
     "type": "maps",
     "author": {
       "name": "preaton1337",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/105851196?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/105851196?v=4"
     },
     "screenshots": [
-      "data\/0.8.1\/Let's play by preaton\/screen_1_1765534651023.jpg",
-      "data\/0.8.1\/Let's play by preaton\/screen_2_1765534663783.jpg",
-      "data\/0.8.1\/Let's play by preaton\/screen_3_1765534679937.jpg"
+      "data/0.8.1/Let's play by preaton/screen_1_1765534651023.jpg",
+      "data/0.8.1/Let's play by preaton/screen_2_1765534663783.jpg",
+      "data/0.8.1/Let's play by preaton/screen_3_1765534679937.jpg"
     ]
   },
   {
@@ -54,14 +54,14 @@
     "version": "0.8.1",
     "short_description": "Skyblock in minecraft pe alpha 0.8.1 !",
     "full_description": "How to add skyblock map in minecraft pe\n\n1. Extract the ZIP file and copy the Skyblock file.\n\n2. Open your file manager and scroll until you find the \"games\" folder, then open it.\n\n3. Open the \"com.mojang\" folder.\n\n4. Find the \"minecraftWorlds\" folder and paste the Skyblock folder inside it.\n\n5. Done — your map should now appear in the game.",
-    "thumbnail": "data\/0.8.1\/Skyblock 0.8.1\/thumb_1771762928066.jpg",
-    "file": "data\/0.8.1\/Skyblock 0.8.1\/Skyblock 0.8.1.zip",
+    "thumbnail": "data/0.8.1/Skyblock 0.8.1/thumb_1771762928066.jpg",
+    "file": "data/0.8.1/Skyblock 0.8.1/Skyblock 0.8.1.zip",
     "date": "2026-02-22 15:22",
     "type": "maps",
-    "alt_link": "https:\/\/www.mediafire.com\/file\/jj8db520kpgnf7u\/Skyblock.zip\/file",
+    "alt_link": "https://www.mediafire.com/file/jj8db520kpgnf7u/Skyblock.zip/file",
     "author": {
       "name": "IamRealCaster",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/89154310?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/89154310?v=4"
     }
   },
   {
@@ -69,14 +69,14 @@
     "version": "0.8.1",
     "short_description": "this map was made by me in 2025",
     "full_description": "there will be updates soon",
-    "thumbnail": "data\/0.8.1\/my old city\/thumb_1781760221413.jpg",
-    "file": "data\/0.8.1\/my old city\/my old city.zip",
+    "thumbnail": "data/0.8.1/my old city/thumb_1781760221413.jpg",
+    "file": "data/0.8.1/my old city/my old city.zip",
     "date": "2026-06-18 11:23",
     "type": "maps",
-    "alt_link": "https:\/\/drive.google.com\/file\/d\/1IOqUQAR4MZnHd6XQfDaIZ-LDO6JII9Nz\/view?usp=drive_link",
+    "alt_link": "https://drive.google.com/file/d/1IOqUQAR4MZnHd6XQfDaIZ-LDO6JII9Nz/view?usp=drive_link",
     "author": {
       "name": "r0blox-1",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/294706971?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/294706971?v=4"
     }
   },
   {
@@ -84,18 +84,39 @@
     "version": "0.8.1, 0.7.0, 0.6.0, 0.5.0",
     "short_description": "Map with a village",
     "full_description": "Map with a village",
-    "thumbnail": "data\/0.8.1\/Village\/thumb_1781787071048.jpg",
-    "file": "data\/0.8.1\/Village\/Village.zip",
+    "thumbnail": "data/0.8.1/Village/thumb_1781787071048.jpg",
+    "file": "data/0.8.1/Village/Village.zip",
     "date": "2026-06-18 15:51",
     "type": "maps",
-    "alt_link": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?attachments\/1328\/",
-    "license": "http:\/\/www.nostalgiaforum.rf.gd\/index.php?threads\/504\/",
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/1328/",
+    "license": "http://www.nostalgiaforum.rf.gd/index.php?threads/504/",
     "author": {
       "name": "eqozqq",
-      "avatar": "https:\/\/avatars.githubusercontent.com\/u\/112166693?v=4"
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
     },
     "screenshots": [
-      "data\/0.8.1\/Village\/screen_1_1781787073756.jpg"
+      "data/0.8.1/Village/screen_1_1781787073756.jpg"
     ]
+  },
+  {
+    "title": "GTA SA",
+    "version": "0.8.1",
+    "short_description": "On this map you will find yourself in the city of Los Santos from the same game GTA.",
+    "full_description": "On this map you will find yourself in the city of Los Santos from the same game GTA. On this map you can find almost all the houses of all the main characters of the game GTA. In this city will be home, street and bridge. Everything will be very similar to the original city of Los Santos. I hope all fans of the game GTA SA this map is very pleasant.",
+    "date": "2026-06-18 14:44",
+    "type": "maps",
+    "author": {
+      "name": "eqozqq",
+      "avatar": "https://avatars.githubusercontent.com/u/112166693?v=4"
+    },
+    "thumbnail": "data/0.8.1/GTA SA/thumb_1781793866475.jpg",
+    "file": "data/0.8.1/GTA SA/GTA SA.zip",
+    "screenshots": [
+      "data/0.8.1/GTA SA/screen_1_1781793867731.jpg",
+      "data/0.8.1/GTA SA/screen_2_1781793868794.jpg",
+      "data/0.8.1/GTA SA/screen_3_1781793869906.jpg"
+    ],
+    "alt_link": "http://www.nostalgiaforum.rf.gd/index.php?attachments/276/",
+    "original_link": "https://for-minecraft.com/maps-for-minecraft-pocket-edition/371-gta-sa-map-for-minecraft-pe-081.html"
   }
 ]
